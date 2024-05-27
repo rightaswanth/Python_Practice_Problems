@@ -16,6 +16,16 @@ del fruits[:]
 
 print(fruits)
 
+# Method - 3
+fruits = ['apple', 'orange', 'mango', 'jerry']
+
+for i in range(len(fruits)-1):
+  fruits.pop(i)
+  
+print(fruits)
+  
+
+
 
 
 
