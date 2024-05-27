@@ -22,6 +22,8 @@ fruits = ['apple', 'orange', 'mango', 'jerry']
 for i in range(len(fruits)-1):
   fruits.pop(i)
   
+print(fruits)
+  
 
 
 
