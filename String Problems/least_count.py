@@ -2,7 +2,7 @@
 
 name = "hello world"
 freeq_dict = {}
-
+        
 for n in name:
     counter = name.count(n)
     if n not in freeq_dict:
